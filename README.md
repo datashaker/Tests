@@ -1,1 +1,4 @@
-# Python test
+# Tests
+- [x] Python
+- [ ] SQL
+
